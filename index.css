@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    font-size: 18px;
+    background: url("img/fon2.png");
+}
+
+
+.card {
+    width: 700px;
+    margin: 40px auto;
+    background-color: rgb(240, 233, 222);
+    box-shadow: 0 10px 10px #ccc;
+    border-radius: 10px;
+    padding: 15px;
+
+}
+
+.card-photo {
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+    border-radius: 20%;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(138, 135, 143);
+}
+
+.card-text {
+    font-size: 18px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma;
+    line-height: 1;
+}
+
+.card-list {
+    padding-left: 0;
+    list-style-position: inside;
+
+}
+
+.color-text {
+    color: blueviolet;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.logo-ranepa {
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+    border-radius: 10%;
+
+}
+
+.info-study {
+    width: 800px;
+}
+
+.friends-foto {
+    display: block;
+    width: 300px;
+    margin: 0px 20px 20px 20px;
+    border-radius: 20%;
+    float: right;
+}
+
+.logo-work {
+    display: block;
+    width: 650px;
+    margin: 0 auto;
+}
+
+.gif {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.card-contacts {
+    margin: 0 auto;
+}
